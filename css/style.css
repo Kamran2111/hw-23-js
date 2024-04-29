@@ -1,0 +1,43 @@
+/* Задания: 4 */
+/* body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.traffic-light {
+  border-radius: 5px;
+  padding: 10px 10px;
+  border: 1px solid black;
+}
+.traffic-light__red {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 10px 0;
+  background-color: #555;
+}
+.traffic-light__yellow {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 10px 0;
+  background-color: #555;
+}
+.traffic-light__green {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin: 10px 0;
+  background-color: #555;
+} */
+/* --------------------------------------------------------------------------- */
+/* Задания: 5 */
+.list-of__books {
+  list-style: none;
+}
+.list__book {
+  padding: 5px 0px;
+}
+.selected {
+  background-color: red;
+}
